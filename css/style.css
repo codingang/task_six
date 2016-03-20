@@ -117,7 +117,7 @@ ul {
     margin-top: 3px;
 }
 
-.topRightTxt h2:nth-child(6) {
+.topRightTxt h1:nth-child(6) {
     font-size: 92px;
     font-family: "微软雅黑";
     font-style: italic;
